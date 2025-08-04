@@ -1,6 +1,6 @@
 ## Topic Wise Resources URLs
 
-### 📘 Data Toolkit
+### 📘 Data Toolkits
 [Click here to view the documentation](https://drive.google.com/drive/folders/1IJRqIxTp3y03KSGjfaHn-W3RRlGWBcgR)
 
 
