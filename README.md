@@ -8,5 +8,9 @@
 [Click Here to view the documentation](https://drive.google.com/drive/folders/1jUyCKDZJ_WtaxqIskf91FhVR07qtkqpL)
 
 
-### 📘 Statistics
+### 📘 Statistics Basics
+[Click Here to view the documentation](https://drive.google.com/drive/folders/1U5Pxts7EIdhX8VP1lIWVW6gWBa1dr5yE)
+
+
+### 📘 Statistics Advance
 [Click Here to view the documentation](https://drive.google.com/drive/folders/1U5Pxts7EIdhX8VP1lIWVW6gWBa1dr5yE)
