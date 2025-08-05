@@ -9,7 +9,7 @@
 
 
 ### 📘 Statistics Basics
-[Click Here to view the documentation](https://drive.google.com/drive/folders/1U5Pxts7EIdhX8VP1lIWVW6gWBa1dr5yE)
+[Click Here to view the documentation](https://drive.google.com/drive/folders/1rsBuvLNDwdVh2A33WlhHud_PZ9_mwzaq)
 
 
 ### 📘 Statistics Advance
